@@ -88,8 +88,13 @@ Cách này có thể áp dụng khi yêu cầu của bạn có thể không quá
 Demo về "Viết 1 câu chuyện ngắn dành cho tiểu học mang tính giáo dục (có vs ko có vd) "
 
 ## Chia vấn đề thành nhiều vấn đề nhỏ hơn
-Với 3 phương pháp để cụ thể hóa truy vấn của mình thì chắc chắn chúng ta cũng đã dùng khá tốt công cụ này rồi đúng không ạ, nhưng cuối cùng thì đôi khi cụ thể thôi vẫn chưa thể giải quyết được vấn đề về ý tưởng, đôi khi quá cụ thể dẫn đến câu truy vấn quá dài khiến không chỉ ta bị loạn mà ChatGPT cũng bị loạn theo, việc truy vấn ngắn gọn xúc tích là điều cần thiết đề cả 2 bên có thể hợp tác tốt nhất có thể.
- 
+Với 3 phương pháp để cụ thể hóa truy vấn của mình thì chắc chắn chúng ta cũng đã dùng khá tốt công cụ này rồi đúng không ạ, nhưng cuối cùng thì đôi khi cụ thể thôi vẫn chưa thể giải quyết được vấn đề về ý tưởng, đôi khi quá cụ thể dẫn đến câu truy vấn quá dài khiến không chỉ ta bị loạn mà ChatGPT cũng bị loạn theo, việc truy vấn ngắn gọn xúc tích là điều cần thiết đề cả 2 bên có thể hợp tác tốt nhất có thể. Nhưng nếu vấn đề của bạn quá lớn đề có thể viết cụ thể trong 1 câu truy vấn thì sao?
+
+![alt text](<big problem.png>)
+
+Vậy nếu không thể truy vấn cả vấn đề trong 1 câu, tại sao không chia nhỏ vấn đề thành nhiều vấn đề nhỏ hơn, dễ giải quyết hơn rồi truy vấn nhiều lần để giải quyết từng vấn đề 1?
+
+![alt text](image-4.png)
 
 ## Cung cấp văn bản chứa thông tin liên quan
 
