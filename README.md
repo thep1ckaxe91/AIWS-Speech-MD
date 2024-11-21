@@ -96,9 +96,18 @@ Vậy nếu không thể truy vấn cả vấn đề trong 1 câu, tại sao kh�
 
 ![alt text](image-4.png)
 
+Giống như việc chúng ta nhai thức ăn thành nhiều mảnh nhỏ rồi mới nuốt vào dạ dày, nếu coi chúng ta là miệng và ChatGPT là dạ dày, chúng ta có thể hiểu tầm quan trọng của việc chia nhỏ vấn đề ra để có thể giải quyết dễ dàng và chính xác hơn.
+
+Quay lại ví dụ về giáo án học Pygame
+Nhai trước là việc phân tích thành các bước, có thể *nhai kĩ hơn* bằng cách với mỗi phần thì sẽ học phần nào trước phần nào sau
+
 ## Cung cấp văn bản chứa thông tin liên quan
 
+Mình có một đứa em đang học về kinh doanh quốc tế, ít nhiều thì cũng liên quan đến luật này luật kia. Trong quá trình tìm hiểu luật thì không nói cũng có thể tưởng tượng việc tra luật liên quan cần rất nhiều thời gian, nhưng nếu ta chỉ hỏi ChatGPT không thôi thì cũng quá nguy hiểm vì thông tin ChatGPT đưa ra không phải lúc nào cũng đúng.
 
+![alt text](<speed and accuracy.png>)
+
+Nhưng có một việc mà ChatGPT làm tốt hơn chúng ta đấy là tốc độ 
 
 ## Kết
 
