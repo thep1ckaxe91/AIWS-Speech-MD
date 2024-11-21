@@ -107,7 +107,9 @@ Mình có một đứa em đang học về kinh doanh quốc tế, ít nhiều t
 
 ![alt text](<speed and accuracy.png>)
 
-Nhưng có một việc mà ChatGPT làm tốt hơn chúng ta đấy là tốc độ 
+Nhưng có một việc mà ChatGPT làm tốt hơn chúng ta đấy là tốc độ đọc, chúng ta có thể áp dụng phương pháp chia nhỏ để có thể trích dẫn một đoạn mà ta chắc / hoặc chắc là có thông tin mà chúng ta cần để trích ra thông tin mà ta cần. Từ những thông tin đó mà có thể giúp chúng ta giải quyết vấn đề.
+
+Bonus đó là chatgpt có thể gắn thêm file doc từ trong drive nếu bạn chưa biết, điều này khá tiện thay vì việc phải paste hết vào truy vấn thì ta có thể tha hồ chỉnh sửa trên doc, hoặc lấy luôn doc là tài liệu để chatgpt phân tích.
 
 ## Kết
 
