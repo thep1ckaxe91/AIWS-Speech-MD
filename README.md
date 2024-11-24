@@ -22,8 +22,11 @@ Tất nhiên, không phải là viết cụ thể là xấu, nhưng viết như 
 
 Vậy bây giờ ta cùng xem có những phương pháp nào để mình lấy được cái mình muốn từ từ GPT nhá
 
-## Viết hướng dẫn cụ thể
-Đầu tiên là viết hướng dẫn cụ thể
+## Viết truy vấn cụ thể
+
+![alt text](image-10.png)
+
+Đầu tiên là viết truy vấn cụ thể
 
 Tưởng tượng bạn đang đi trên đường, đột nhiên có một người tự dưng đến gần xong hỏi một câu hỏi như :
 
