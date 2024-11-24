@@ -16,6 +16,8 @@ Thông qua video cũng khá nổi vừa rồi thì chắc các bạn cũng hiể
 
 Đôi khi chúng ta có nghe những người cũng dùng ChatGPT bảo rằng viết càng kĩ thì câu trả lời của ChatGPT càng tốt, nhưng không phải lúc nào cũng thế, lý do thì thông qua phần của bạn Tài chúng ta cũng đã biết rồi 
 
+![alt text](image-6.png)
+
 Tất nhiên, không phải là viết cụ thể là xấu, nhưng viết như thế nào để ChatGPT trả lời đúng ý mình nhất mới là vấn đề
 
 Vậy bây giờ ta cùng xem có những phương pháp nào để mình lấy được cái mình muốn từ từ GPT nhá
@@ -44,7 +46,7 @@ Chính vì thế, các chi tiết cụ thể trong bối cảnh mà chúng ta đ
 
 Vậy thì như thế nào mới là cụ thể?
 
-![alt text](image-1.png)
+![alt text](image-7.png)
 
 Tất nhiên, chỉ cần kể chi tiết tình huống ra đã có thể gọi là cụ thể rồi, tuy nhiên ChatGPT cuối cùng vẫn chỉ là 1 công cụ, tức là sẽ có rất nhiều cách để làm cho câu truy vấn của bạn cụ thể hơn, thậm chí là chúng ta có thể kết hợp chúng với nhau, tuy không nhất thiết phải dùng hết, nhưng chỉ cần dùng thôi chúng ta có thể thấy sự khác biệt rồi
 
@@ -79,7 +81,7 @@ Bước 3: Dạy về cách làm các game cơ bản như Rắn săn mồi, Flap
 
 ### Cung cấp 1 hoặc nhiều ví dụ minh họa
 
-![alt text](follow.png)
+![alt text](image-8.png)
 
 Em thấy việc học hay làm gì đó rất khó tiếp thu nếu như không đi kèm 1 ví dụ để có thể thực hiện theo hay làm mẫu, nên chắc chắn ChatGPT cũng không ngoại lệ khi nói đến việc phải giải quyết sự trừu tượng trong câu truy vấn của chúng ta đúng ko ạ, chính vì thế mà việc đưa ra ví dụ và bảo ChatGPT làm theo không ít thì nhiều cũng sẽ cho câu trả lời của ChatGPT 1 bước nữa sát với ý của mình hơn
 
@@ -94,7 +96,7 @@ Với 3 phương pháp để cụ thể hóa truy vấn của mình thì chắc 
 
 Vậy nếu không thể truy vấn cả vấn đề trong 1 câu, tại sao không chia nhỏ vấn đề thành nhiều vấn đề nhỏ hơn, dễ giải quyết hơn rồi truy vấn nhiều lần để giải quyết từng vấn đề 1?
 
-![alt text](image-4.png)
+![alt text](image-9.png)
 
 Giống như việc chúng ta nhai thức ăn thành nhiều mảnh nhỏ rồi mới nuốt vào dạ dày, nếu coi chúng ta là miệng và ChatGPT là dạ dày, chúng ta có thể hiểu tầm quan trọng của việc chia nhỏ vấn đề ra để có thể giải quyết dễ dàng và chính xác hơn.
 
@@ -110,7 +112,3 @@ Mình có một đứa em đang học về kinh doanh quốc tế, ít nhiều t
 Nhưng có một việc mà ChatGPT làm tốt hơn chúng ta đấy là tốc độ đọc, chúng ta có thể áp dụng phương pháp chia nhỏ để có thể trích dẫn một đoạn mà ta chắc / hoặc chắc là có thông tin mà chúng ta cần để trích ra thông tin mà ta cần. Từ những thông tin đó mà có thể giúp chúng ta giải quyết vấn đề.
 
 Bonus đó là chatgpt có thể gắn thêm file doc từ trong drive nếu bạn chưa biết, điều này khá tiện thay vì việc phải paste hết vào truy vấn thì ta có thể tha hồ chỉnh sửa trên doc, hoặc lấy luôn doc là tài liệu để chatgpt phân tích.
-
-## Kết
-
-Vừa rồi là tóm tắt và demo trực tiếp một vài ví dụ đơn giản để có thể tận dụng ChatGPT, đến đây mình cũng xin hết phần chia sẻ của mình
