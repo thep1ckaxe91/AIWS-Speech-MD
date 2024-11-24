@@ -10,15 +10,15 @@
 
 # Lời thoại
 
-##### NOTE: anh kiên làm slide thì cứ chèn ảnh vào xong không cần transition gì đâu nhé :))
+Thông qua video cũng khá nổi vừa rồi thì chắc các bạn cũng hiểu được mình sẽ nói gì tiếp theo đúng không ạ, thì đấy là về cách sử dụng ChatGPT sao cho hiệu quả
 
-## Freestyle về búa thor, câu chuyện về thor không có búa
+![alt text](image-5.png)
 
-![alt text](<thor meme.png>)
+Đôi khi chúng ta có nghe những người cũng dùng ChatGPT bảo rằng viết càng kĩ thì câu trả lời của ChatGPT càng tốt, nhưng không phải lúc nào cũng thế, lý do thì thông qua phần của bạn Tài chúng ta cũng đã biết rồi 
 
-Tương tự như vậy, ChatGPT là 1 công cụ giúp mình hoàn thành việc dễ dàng, hiệu quả hơn, song nếu không xứng đáng cầm lấy "cây búa" này thì dù có thêm 20$ nữa cũng không để làm gì đúng không ạ ? 
+Tất nhiên, không phải là viết cụ thể là xấu, nhưng viết như thế nào để ChatGPT trả lời đúng ý mình nhất mới là vấn đề
 
-Vậy thì để có thể biết được làm thể nào để trở nên "xứng đáng" để dùng ChatGPT, và nếu bạn có mua ChatGPT plus thì cũng không bị tốn tiền thì sẽ có những tip sau để chúng ta có thể áp dụng luôn
+Vậy bây giờ ta cùng xem có những phương pháp nào để mình lấy được cái mình muốn từ từ GPT nhá
 
 ## Viết hướng dẫn cụ thể
 Đầu tiên là viết hướng dẫn cụ thể
